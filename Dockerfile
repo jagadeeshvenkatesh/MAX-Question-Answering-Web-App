@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-FROM codait/max-base:v1.3.2
+FROM codait/max-base:non.existent.tag
 
 COPY . /app
 WORKDIR /app
